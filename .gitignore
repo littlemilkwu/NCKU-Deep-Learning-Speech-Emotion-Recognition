@@ -1,0 +1,8 @@
+**/__pycache__
+TIM-Net_SER/Code/MFCC/MERGE_TRAIN.npy
+TIM-Net_SER/Code/MFCC/MERGE_TEST.npy
+TIM-Net_SER/Code/MFCC/IEMOCAP.npy
+TIM-Net_SER/Code/RawData/*/*.wav
+
+
+baseline/raw_data/**/*.wav
